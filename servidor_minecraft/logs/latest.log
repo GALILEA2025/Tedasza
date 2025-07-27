@@ -2048,3 +2048,25 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [27Jul2025 02:19:39.495] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_173
 [27Jul2025 02:19:45.749] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_173
 [27Jul2025 02:20:22.678] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_966
+[27Jul2025 02:21:24.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VadniesHael has made the advancement [Getting an Upgrade]
+[27Jul2025 02:22:54.792] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VadniesHael lost connection: Disconnected
+[27Jul2025 02:22:54.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VadniesHael left the game
+[27Jul2025 02:22:59.232] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: VadniesHael[/127.146.157.221:52347] logged in with entity id 30789 at (703.6999999880791, 57.0, -779.3049998490758)
+[27Jul2025 02:22:59.260] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player VadniesHael
+[27Jul2025 02:22:59.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VadniesHael joined the game
+[27Jul2025 02:22:59.286] [Server thread/INFO] [Jade/]: Syncing config to VadniesHael (e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95)
+[27Jul2025 02:23:20.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[27Jul2025 02:23:20.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OP VadniesHael<--[HERE]
+[27Jul2025 02:23:27.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VadniesHael was blown up by Creeper
+[27Jul2025 02:24:56.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made VadniesHael a server operator
+[27Jul2025 02:25:05.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VadniesHael: Set own game mode to Creative Mode]
+[27Jul2025 02:26:45.784] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #spore:laboratories (spore:hospital) took 34 ms
+[27Jul2025 02:26:54.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VadniesHael: Teleported VadniesHael to -751.500000, 94.973449, 48.500000]
+[27Jul2025 02:26:54.103] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4371ms or 87 ticks behind
+[27Jul2025 02:26:54.642] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_966
+[27Jul2025 02:27:01.851] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_049
+[27Jul2025 02:28:01.564] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element underground_bunkers:underground_bunker took 0 ms
+[27Jul2025 02:28:04.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VadniesHael: Teleported VadniesHael to -751.500000, 91.852321, 64.500000]
+[27Jul2025 02:28:31.190] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Gistique'/35826, l='ServerLevel[world]', x=-741.22, y=95.00, z=53.26] died: Gistique was blown up by Creeper
+[27Jul2025 02:30:34.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VadniesHael has made the advancement [Meet the team]
+[27Jul2025 02:30:34.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VadniesHael has made the advancement [Addict]
