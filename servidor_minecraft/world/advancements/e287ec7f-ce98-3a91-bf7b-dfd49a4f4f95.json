@@ -101,6 +101,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-27 01:59:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2025-07-27 01:36:45 +0000"
@@ -347,6 +353,18 @@
     },
     "done": true
   },
+  "supplementaries:recipes/pedestal": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-27 01:59:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2025-07-27 01:57:22 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_pink": {
     "criteria": {
       "has_stick": "2025-07-27 01:36:45 +0000"
@@ -392,6 +410,18 @@
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2025-07-27 01:36:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-27 01:59:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-27 01:59:35 +0000"
     },
     "done": true
   },
@@ -503,6 +533,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2025-07-27 01:57:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2025-07-27 01:38:35 +0000"
@@ -530,6 +566,12 @@
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2025-07-27 01:48:15 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stone_tile": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-27 01:59:35 +0000"
     },
     "done": true
   },
@@ -629,6 +671,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-27 01:59:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_potato": "2025-07-27 01:51:11 +0000"
@@ -680,6 +728,18 @@
   "supplementaries:recipes/flags/flag_gray": {
     "criteria": {
       "has_stick": "2025-07-27 01:36:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-27 01:59:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-27 01:59:35 +0000"
     },
     "done": true
   },
@@ -779,6 +839,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-07-27 01:59:31 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/logistics/blue_table_cloth": {
     "criteria": {
       "has_wool": "2025-07-27 01:48:15 +0000"
@@ -830,6 +896,12 @@
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2025-07-27 01:36:43 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce": {
+    "criteria": {
+      "has_torch": "2025-07-27 01:59:36 +0000"
     },
     "done": true
   },
@@ -926,6 +998,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-07-27 01:36:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-27 01:59:35 +0000"
     },
     "done": true
   },
@@ -1037,12 +1115,23 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-27 01:59:35 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "shrubland": "2025-07-27 01:57:28 +0000",
+      "pine_taiga": "2025-07-27 02:05:19 +0000",
       "autumnal_maple_forest": "2025-07-27 01:48:56 +0000",
+      "ochard": "2025-07-27 01:57:59 +0000",
       "maple_forest": "2025-07-27 01:40:23 +0000",
       "boreal_forest": "2025-07-27 01:47:55 +0000",
-      "cold_river": "2025-07-27 01:50:15 +0000"
+      "temperate_grove": "2025-07-27 02:04:54 +0000",
+      "cold_river": "2025-07-27 01:50:15 +0000",
+      "pumpkin_fields": "2025-07-27 02:00:12 +0000"
     },
     "done": false
   },
@@ -1144,10 +1233,15 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "shrubland": "2025-07-27 01:57:28 +0000",
+      "pine_taiga": "2025-07-27 02:05:19 +0000",
       "autumnal_maple_forest": "2025-07-27 01:48:56 +0000",
+      "ochard": "2025-07-27 01:57:59 +0000",
       "maple_forest": "2025-07-27 01:40:23 +0000",
       "boreal_forest": "2025-07-27 01:47:55 +0000",
-      "cold_river": "2025-07-27 01:50:15 +0000"
+      "temperate_grove": "2025-07-27 02:04:54 +0000",
+      "cold_river": "2025-07-27 01:50:15 +0000",
+      "pumpkin_fields": "2025-07-27 02:00:12 +0000"
     },
     "done": false
   },
@@ -1169,6 +1263,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2025-07-27 01:57:22 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_red": {
     "criteria": {
       "has_stick": "2025-07-27 01:36:45 +0000"
@@ -1178,9 +1278,12 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-07-27 01:31:42 +0000",
+      "minecraft:beach": "2025-07-27 02:05:51 +0000",
       "minecraft:river": "2025-07-27 01:47:15 +0000",
       "minecraft:stony_shore": "2025-07-27 01:39:43 +0000",
       "minecraft:forest": "2025-07-27 01:39:40 +0000",
+      "minecraft:flower_forest": "2025-07-27 01:57:55 +0000",
+      "minecraft:old_growth_birch_forest": "2025-07-27 02:05:20 +0000",
       "minecraft:plains": "2025-07-27 01:50:29 +0000"
     },
     "done": false
@@ -1203,6 +1306,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/stonecutting/stone_tile": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-27 01:59:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2025-07-27 01:51:02 +0000"
@@ -1217,6 +1326,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2025-07-27 02:04:34 +0000",
       "bread": "2025-07-27 01:52:19 +0000"
     },
     "done": false
