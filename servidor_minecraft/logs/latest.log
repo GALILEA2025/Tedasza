@@ -2003,3 +2003,11 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [27Jul2025 01:31:41.208] [Server thread/INFO] [Jade/]: Syncing config to VadniesHael (e287ec7f-ce98-3a91-bf7b-dfd49a4f4f95)
 [27Jul2025 01:31:53.646] [Worker-Main-2/INFO] [ModernFix/]: Instantiating Mojang DFU
 [27Jul2025 01:36:35.341] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Technoblade'/2202, l='ServerLevel[world]', x=-17.57, y=-2.00, z=21.00] died: Technoblade was shot by Skeleton
+[27Jul2025 01:41:43.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VadniesHael fell from a high place
+[27Jul2025 01:43:34.902] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id shy_guy:shy_guy
+[27Jul2025 01:44:26.957] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=71, y=63, z=195} BlockPos{x=71, y=63, z=194}
+[27Jul2025 01:47:26.786] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_106
+[27Jul2025 01:47:54.834] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_3199
+[27Jul2025 01:48:34.731] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1488, y=82, z=747}
+[27Jul2025 01:48:59.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VadniesHael has made the advancement [Stone Age]
+[27Jul2025 01:49:47.501] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_939_biped
