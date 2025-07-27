@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "e287ec7fce983a91bf7bdfd49a4f4f95"
+	name: "VadniesHael#e287ec7f"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}
