@@ -2037,3 +2037,14 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [27Jul2025 02:09:25.825] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_939_biped
 [27Jul2025 02:09:25.830] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_939_biped
 [27Jul2025 02:09:32.904] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_049
+[27Jul2025 02:12:37.184] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id shy_guy:shy_guy
+[27Jul2025 02:12:37.217] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_106
+[27Jul2025 02:12:37.354] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=426, y=13, z=-1201} but found not block entity block Block{minecraft:water}[level=4] at location
+[27Jul2025 02:12:37.355] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=4] but failed at location BlockPos{x=426, y=13, z=-1201}
+[27Jul2025 02:12:45.795] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_939_biped
+[27Jul2025 02:13:34.751] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_049
+[27Jul2025 02:13:40.971] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_049
+[27Jul2025 02:17:46.518] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_3199
+[27Jul2025 02:19:39.495] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_173
+[27Jul2025 02:19:45.749] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_173
+[27Jul2025 02:20:22.678] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_966
