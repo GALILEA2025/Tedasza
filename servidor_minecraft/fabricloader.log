@@ -1,4 +1,0 @@
-[01:18:42] [WARN] [FabricLoader/Resolution]: Mod resolution failed
-[01:18:42] [INFO] [FabricLoader/Resolution]: Immediate reason: [HARD_DEP_NO_CANDIDATE custom_entity_attributes 1.0.0 {depends necronomicon @ [>=1.6.0]}, ROOT_FORCELOAD_SINGLE custom_entity_attributes 1.0.0]
-[01:18:42] [INFO] [FabricLoader/Resolution]: Reason: [HARD_DEP custom_entity_attributes 1.0.0 {depends necronomicon @ [>=1.6.0]}, HARD_DEP customitemattributes 2.0.0 {depends necronomicon @ [>=1.4.1]}, HARD_DEP resistance_balancer 1.0.0 {depends necronomicon @ [>=1.4.2]}]
-[01:18:42] [INFO] [FabricLoader/Resolution]: Fix: add [add:necronomicon 1.6.0 ([[1.6.0,∞)])], remove [], replace []

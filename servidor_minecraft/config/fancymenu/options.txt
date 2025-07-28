@@ -15,7 +15,7 @@ B:advanced_customization_mode = 'false';
 ##[loading]
 
 B:preload_animations = 'true';
-S:preload_resources = '';
+S:preload_resources = '[source:local]config/fancymenu/assets/sigma.fma%!source_end!%';
 S:custom_game_intro_skip_text = '';
 B:allow_game_intro_skip = 'true';
 S:game_intro_animation_name = '';
@@ -25,10 +25,10 @@ B:game_intro_fade_out = 'true';
 ##[window]
 
 B:show_custom_window_icon = 'true';
-S:custom_window_icon_macos = '/config/fancymenu/assets/icons/icon_osx.icns';
-S:custom_window_icon_32 = '/config/fancymenu/assets/icons/32x32.png';
-S:custom_window_title = 'The Fungal Infection';
-S:custom_window_icon_16 = '/config/fancymenu/assets/icons/16x16.png';
+S:custom_window_icon_macos = '/config/fancymenu/assets/le.icns';
+S:custom_window_icon_32 = '/config/fancymenu/assets/cwlogo.png';
+S:custom_window_title = 'Cursed Walking - Version 3';
+S:custom_window_icon_16 = '/config/fancymenu/assets/cw2logo.png';
 
 
 ##[multiplayer_screen]
@@ -53,7 +53,6 @@ S:anchor_overlay_color_base_override = '';
 F:layout_editor_grid_snapping_strength = '1.0';
 I:layout_editor_grid_size = '10';
 B:invert_anchor_overlay_color = 'false';
-B:enable_buddy = 'true';
 S:anchor_overlay_color_border_override = '';
 F:anchor_overlay_opacity_normal = '0.5';
 F:anchor_overlay_opacity_busy = '0.7';

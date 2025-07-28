@@ -22,16 +22,16 @@
 	playerInfectSound = true
 	#Play a sound when infection gets prevented?
 	infectionProtectSound = false
-	#Show a tooltip on items that can cure infection?
-	cureTooltip = true
-	#Show a tooltip on items that give infection immunity?
-	immunityTooltip = true
-	#Show a tooltip on wearable items that grant some protection against infection?
-	wearableProtectionTooltip = true
 	#Colour tint for zombie players.
 	zombiePlayerColour = [121, 156, 101]
 	#Colour tint for drowned players.
 	drownedPlayerColour = [144, 255, 255]
 	#Colour tint for husk players.
 	huskPlayerColour = [193, 168, 5]
+	#Show a tooltip on items that can cure infection?
+	cureTooltip = true
+	#Show a tooltip on items that give infection immunity?
+	immunityTooltip = true
+	#Show a tooltip on wearable items that grant some protection against infection?
+	wearableProtectionTooltip = true
 
