@@ -1943,3 +1943,12 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [28Jul2025 17:42:44.854] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VadniesHael lost connection: Disconnected
 [28Jul2025 17:42:44.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VadniesHael left the game
 [28Jul2025 17:42:44.862] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client VadniesHael
+[28Jul2025 17:49:53.539] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: VadniesHael[/127.146.157.221:47783] logged in with entity id 512 at (-12.334838577659264, 120.0, 3.117329628060644)
+[28Jul2025 17:49:53.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VadniesHael joined the game
+[28Jul2025 17:49:53.640] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to VadniesHael
+[28Jul2025 17:49:53.796] [Netty Epoll Server IO #4/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from VadniesHael
+[28Jul2025 17:49:53.797] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of VadniesHael (18)
+[28Jul2025 17:49:53.797] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to VadniesHael
+[28Jul2025 17:52:17.842] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VadniesHael lost connection: Disconnected
+[28Jul2025 17:52:17.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VadniesHael left the game
+[28Jul2025 17:52:17.843] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client VadniesHael
