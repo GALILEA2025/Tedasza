@@ -2691,3 +2691,8 @@ java.lang.RuntimeException: Attempted to load class com/keerdm/binocularsmod/cli
 [28Jul2025 20:52:11.464] [Netty Epoll Server IO #6/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Taza_new
 [28Jul2025 20:52:11.475] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Taza_new (18)
 [28Jul2025 20:52:11.475] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Taza_new
+[28Jul2025 21:00:01.105] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Phantom Membrane'/883976, l='ServerLevel[world]', x=-498.15, y=70.50, z=-68.02, removed=DISCARDED]
+[28Jul2025 21:00:01.105] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Phantom Membrane'/883976, l='ServerLevel[world]', x=-498.15, y=70.50, z=-68.02, removed=DISCARDED]
+[28Jul2025 21:00:41.275] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Phantom Membrane'/886719, l='ServerLevel[world]', x=-498.01, y=69.00, z=-68.70, removed=DISCARDED]
+[28Jul2025 21:00:41.275] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Phantom Membrane'/886719, l='ServerLevel[world]', x=-498.01, y=69.00, z=-68.70, removed=DISCARDED]
+[28Jul2025 21:02:33.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <VadniesHael> aaaXDXD
