@@ -2644,3 +2644,50 @@ java.lang.RuntimeException: Attempted to load class com/keerdm/binocularsmod/cli
 [28Jul2025 20:42:46.522] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Phantom Membrane'/249765, l='ServerLevel[world]', x=-502.70, y=78.00, z=-67.46, removed=DISCARDED]
 [28Jul2025 20:42:46.523] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Ender Pearl'/596407, l='ServerLevel[world]', x=-494.70, y=66.05, z=-64.37, removed=DISCARDED]
 [28Jul2025 20:42:46.523] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Phantom Membrane'/783338, l='ServerLevel[world]', x=-490.14, y=60.00, z=-73.49, removed=DISCARDED]
+[28Jul2025 20:45:24.884] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Ender Pearl'/817705, l='ServerLevel[world]', x=-483.04, y=54.00, z=-62.30, removed=DISCARDED]
+[28Jul2025 20:45:24.884] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Ender Pearl'/817705, l='ServerLevel[world]', x=-483.04, y=54.00, z=-62.30, removed=DISCARDED]
+[28Jul2025 20:45:48.603] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Ender Pearl'/819226, l='ServerLevel[world]', x=-482.30, y=54.00, z=-62.49, removed=DISCARDED]
+[28Jul2025 20:45:48.603] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Ender Pearl'/819226, l='ServerLevel[world]', x=-482.30, y=54.00, z=-62.49, removed=DISCARDED]
+[28Jul2025 20:45:52.031] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Phantom Membrane'/819444, l='ServerLevel[world]', x=-488.41, y=59.46, z=-61.44, removed=DISCARDED]
+[28Jul2025 20:45:52.032] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Phantom Membrane'/819444, l='ServerLevel[world]', x=-488.41, y=59.46, z=-61.44, removed=DISCARDED]
+[28Jul2025 20:46:24.852] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Ender Pearl'/821613, l='ServerLevel[world]', x=-482.59, y=54.00, z=-62.44, removed=DISCARDED]
+[28Jul2025 20:46:24.852] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Ender Pearl'/821613, l='ServerLevel[world]', x=-482.59, y=54.00, z=-62.44, removed=DISCARDED]
+[28Jul2025 20:47:54.627] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VadniesHael lost connection: Disconnected
+[28Jul2025 20:47:54.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VadniesHael left the game
+[28Jul2025 20:47:54.627] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client VadniesHael
+[28Jul2025 20:48:56.140] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: VadniesHael[/127.146.157.221:42721] logged in with entity id 830072 at (-481.30000001192093, 59.0, -61.69999998807907)
+[28Jul2025 20:48:56.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VadniesHael joined the game
+[28Jul2025 20:48:56.175] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Ender Pearl'/151252, l='ServerLevel[world]', x=-498.26, y=96.00, z=-84.41, removed=DISCARDED]
+[28Jul2025 20:48:56.176] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Phantom Membrane'/249765, l='ServerLevel[world]', x=-502.70, y=78.00, z=-67.46, removed=DISCARDED]
+[28Jul2025 20:48:56.178] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Ender Pearl'/596407, l='ServerLevel[world]', x=-494.70, y=66.05, z=-64.37, removed=DISCARDED]
+[28Jul2025 20:48:56.179] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Phantom Membrane'/783338, l='ServerLevel[world]', x=-490.14, y=60.00, z=-73.49, removed=DISCARDED]
+[28Jul2025 20:48:56.179] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Ender Pearl'/819226, l='ServerLevel[world]', x=-482.30, y=54.00, z=-62.49, removed=DISCARDED]
+[28Jul2025 20:48:56.179] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Ender Pearl'/817705, l='ServerLevel[world]', x=-483.04, y=54.00, z=-62.30, removed=DISCARDED]
+[28Jul2025 20:48:56.179] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Ender Pearl'/821613, l='ServerLevel[world]', x=-482.59, y=54.00, z=-62.44, removed=DISCARDED]
+[28Jul2025 20:48:56.179] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Phantom Membrane'/597481, l='ServerLevel[world]', x=-494.70, y=67.69, z=-62.70, removed=DISCARDED]
+[28Jul2025 20:48:56.180] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Phantom Membrane'/819444, l='ServerLevel[world]', x=-488.41, y=59.46, z=-61.44, removed=DISCARDED]
+[28Jul2025 20:48:56.180] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Ender Pearl'/597762, l='ServerLevel[world]', x=-494.70, y=67.51, z=-62.70, removed=DISCARDED]
+[28Jul2025 20:48:56.214] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to VadniesHael
+[28Jul2025 20:48:56.320] [Netty Epoll Server IO #1/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from VadniesHael
+[28Jul2025 20:48:56.333] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of VadniesHael (18)
+[28Jul2025 20:48:56.334] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to VadniesHael
+[28Jul2025 20:51:54.122] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Taza_new lost connection: Disconnected
+[28Jul2025 20:51:54.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Taza_new left the game
+[28Jul2025 20:51:54.123] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Taza_new
+[28Jul2025 20:51:54.173] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[28Jul2025 20:52:11.035] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Taza_new[/127.137.233.5:33119] logged in with entity id 842503 at (-484.99592669856764, 54.0, -67.0546473401141)
+[28Jul2025 20:52:11.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Taza_new joined the game
+[28Jul2025 20:52:11.061] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Ender Pearl'/151252, l='ServerLevel[world]', x=-498.26, y=96.00, z=-84.41, removed=DISCARDED]
+[28Jul2025 20:52:11.062] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Phantom Membrane'/249765, l='ServerLevel[world]', x=-502.70, y=78.00, z=-67.46, removed=DISCARDED]
+[28Jul2025 20:52:11.064] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Ender Pearl'/596407, l='ServerLevel[world]', x=-494.70, y=66.05, z=-64.37, removed=DISCARDED]
+[28Jul2025 20:52:11.065] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Phantom Membrane'/783338, l='ServerLevel[world]', x=-490.14, y=60.00, z=-73.49, removed=DISCARDED]
+[28Jul2025 20:52:11.065] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Ender Pearl'/819226, l='ServerLevel[world]', x=-482.30, y=54.00, z=-62.49, removed=DISCARDED]
+[28Jul2025 20:52:11.065] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Ender Pearl'/817705, l='ServerLevel[world]', x=-483.04, y=54.00, z=-62.30, removed=DISCARDED]
+[28Jul2025 20:52:11.065] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Ender Pearl'/821613, l='ServerLevel[world]', x=-482.59, y=54.00, z=-62.44, removed=DISCARDED]
+[28Jul2025 20:52:11.065] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Phantom Membrane'/597481, l='ServerLevel[world]', x=-494.70, y=67.69, z=-62.70, removed=DISCARDED]
+[28Jul2025 20:52:11.066] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Phantom Membrane'/819444, l='ServerLevel[world]', x=-488.41, y=59.46, z=-61.44, removed=DISCARDED]
+[28Jul2025 20:52:11.066] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Ender Pearl'/597762, l='ServerLevel[world]', x=-494.70, y=67.51, z=-62.70, removed=DISCARDED]
+[28Jul2025 20:52:11.100] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Taza_new
+[28Jul2025 20:52:11.464] [Netty Epoll Server IO #6/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Taza_new
+[28Jul2025 20:52:11.475] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Taza_new (18)
+[28Jul2025 20:52:11.475] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Taza_new
