@@ -1952,3 +1952,25 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [28Jul2025 17:52:17.842] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VadniesHael lost connection: Disconnected
 [28Jul2025 17:52:17.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VadniesHael left the game
 [28Jul2025 17:52:17.843] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client VadniesHael
+[28Jul2025 18:01:31.883] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Taza_new[/127.137.233.5:48435] logged in with entity id 4994 at (1.5, 118.0, 1.5)
+[28Jul2025 18:01:31.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Taza_new joined the game
+[28Jul2025 18:01:31.952] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Taza_new
+[28Jul2025 18:01:32.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Taza_new has made the advancement [Suit Up]
+[28Jul2025 18:01:33.491] [Netty Epoll Server IO #2/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Taza_new
+[28Jul2025 18:01:33.549] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Taza_new (18)
+[28Jul2025 18:01:33.549] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Taza_new
+[28Jul2025 18:01:48.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Taza_new was slain by Zombie
+[28Jul2025 18:01:48.857] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: VadniesHael[/127.146.157.221:48459] logged in with entity id 5705 at (-72.30000001192093, 83.0, 97.30000001192093)
+[28Jul2025 18:01:48.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VadniesHael joined the game
+[28Jul2025 18:01:48.911] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to VadniesHael
+[28Jul2025 18:01:49.102] [Netty Epoll Server IO #6/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from VadniesHael
+[28Jul2025 18:01:49.114] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of VadniesHael (18)
+[28Jul2025 18:01:49.115] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to VadniesHael
+[28Jul2025 18:01:56.418] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[28Jul2025 18:02:14.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Taza_new was slain by Zombie
+[28Jul2025 18:02:15.739] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[28Jul2025 18:03:06.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Taza_new was slain by Zombie
+[28Jul2025 18:03:08.560] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[28Jul2025 18:03:55.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Taza_new> tads
+[28Jul2025 18:04:53.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VadniesHael has made the advancement [Monster Hunter]
+[28Jul2025 18:06:06.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Taza_new has made the advancement [Monster Hunter]
