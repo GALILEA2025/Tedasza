@@ -3288,6 +3288,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-28 19:52:17 +0000"
+    },
+    "done": true
+  },
   "bbb:recipes/acacia_lantern": {
     "criteria": {
       "has_torch": "2025-07-28 19:25:13 +0000"
@@ -3504,6 +3510,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-28 19:52:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2025-07-28 19:47:42 +0000"
@@ -3537,6 +3549,12 @@
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2025-07-28 19:33:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-28 19:52:17 +0000"
     },
     "done": true
   },
@@ -3594,6 +3612,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-07-28 19:52:17 +0000"
+    },
+    "done": true
+  },
   "bbb:recipes/oak_lantern": {
     "criteria": {
       "has_torch": "2025-07-28 19:25:13 +0000"
@@ -3615,6 +3639,12 @@
   "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-07-28 19:31:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-28 19:52:17 +0000"
     },
     "done": true
   },

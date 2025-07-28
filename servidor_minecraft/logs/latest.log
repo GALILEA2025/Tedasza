@@ -2530,3 +2530,19 @@ java.lang.RuntimeException: Attempted to load class com/keerdm/binocularsmod/cli
 [28Jul2025 19:50:37.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VadniesHael: Teleported VadniesHael to Taza_new]
 [28Jul2025 19:50:37.719] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Ender Pearl'/151252, l='ServerLevel[world]', x=-498.26, y=96.00, z=-84.41, removed=DISCARDED]
 [28Jul2025 19:50:37.720] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Phantom Membrane'/249765, l='ServerLevel[world]', x=-502.70, y=78.00, z=-67.46, removed=DISCARDED]
+[28Jul2025 19:53:04.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VadniesHael was doomed to fall by Zombie
+[28Jul2025 19:53:05.248] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[28Jul2025 19:53:15.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VadniesHael: Teleported VadniesHael to Taza_new]
+[28Jul2025 19:53:15.367] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Ender Pearl'/151252, l='ServerLevel[world]', x=-498.26, y=96.00, z=-84.41, removed=DISCARDED]
+[28Jul2025 19:53:15.368] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Phantom Membrane'/249765, l='ServerLevel[world]', x=-502.70, y=78.00, z=-67.46, removed=DISCARDED]
+[28Jul2025 19:53:44.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VadniesHael has made the advancement [Isn't It Iron Pick]
+[28Jul2025 19:58:47.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VadniesHael was doomed to fall by Zombie
+[28Jul2025 19:58:48.338] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[28Jul2025 19:59:01.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VadniesHael: Teleported VadniesHael to Taza_new]
+[28Jul2025 19:59:02.019] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Ender Pearl'/151252, l='ServerLevel[world]', x=-498.26, y=96.00, z=-84.41, removed=DISCARDED]
+[28Jul2025 19:59:02.019] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Phantom Membrane'/249765, l='ServerLevel[world]', x=-502.70, y=78.00, z=-67.46, removed=DISCARDED]
+[28Jul2025 20:00:21.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VadniesHael was slain by Zombie
+[28Jul2025 20:00:22.401] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[28Jul2025 20:00:49.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [VadniesHael: Teleported VadniesHael to Taza_new]
+[28Jul2025 20:00:49.617] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Ender Pearl'/151252, l='ServerLevel[world]', x=-498.26, y=96.00, z=-84.41, removed=DISCARDED]
+[28Jul2025 20:00:49.619] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Phantom Membrane'/249765, l='ServerLevel[world]', x=-502.70, y=78.00, z=-67.46, removed=DISCARDED]
